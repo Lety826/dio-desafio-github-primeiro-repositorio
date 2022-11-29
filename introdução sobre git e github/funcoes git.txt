@@ -1,0 +1,14 @@
+Funções do git
+cd = abrir um diretório
+rm = apagar uma pasta/diretório
+mkdir = criar um diretório ou pasta
+ls = listar tudo que há no diretório
+exit = sair do git
+clear = limpar 
+cd .. = voltar 
+git clone = colar pasta do repositório remoto
+git status = mostrar propriedades
+git init = criar arquivo git
+git push = empurrar para repositório remoto
+git commit = criar um commit
+git add -A = adicionar todos os arquivos
